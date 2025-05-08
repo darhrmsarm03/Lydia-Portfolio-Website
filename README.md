@@ -1,2 +1,1 @@
-# lydia
-lydia tutorial
+# lydia Photography
