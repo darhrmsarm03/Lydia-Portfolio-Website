@@ -39,6 +39,16 @@ Welcome to the Lydia Portfolio Website repository. This project showcases a mode
 - Upload your images to the style/images/ directory.
 - Modify the portfolio grid and filter options to showcase your work.
 
+### Contributing
+
+Contributions are welcome! Please adhere to the following guidelines:
+
+- Fork the repository: Create a copy of the project on your GitHub account.
+- Create a branch: Make your changes on a new branch.
+- Commit your changes: Use clear and concise commit messages.
+- Push your changes: Push your branch to your forked repository.
+- Create a pull request: Submit a pull request to the main repository.
+
 ## Dependencies
 
 - ootstrap CSS and JS files included via local paths.
