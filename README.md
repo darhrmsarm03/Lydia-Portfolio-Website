@@ -51,7 +51,7 @@ Contributions are welcome! Please adhere to the following guidelines:
 
 ## Dependencies
 
-- ootstrap CSS and JS files included via local paths.
+- Bootstrap CSS and JS files included via local paths.
 - jQuery and plugins included via local files (style/js/).
 
 Ensure all files are correctly linked, and update paths if you reorganize the directory structure.
