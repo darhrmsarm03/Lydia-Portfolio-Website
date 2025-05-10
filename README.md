@@ -19,17 +19,17 @@ CSS3 (including Bootstrap and custom styles)
 JavaScript (jQuery, plugins)
 Google Fonts
 
-##Setup Instructions
+## Setup Instructions
 
 1. Clone the Repository
    "git clone "https://github.com/yourusername/lydia-portfolio.git"
 
 2. Open in Browser
 
-Navigate to the project folder.
-Open index.html in your preferred web browser.
+- Navigate to the project folder.
+- Open index.html in your preferred web browser.
 
 ## Customize Content
 
-Replace placeholder images (style/images/) and text with your own portfolio content.
-Update contact info, social links, and project details as needed.
+- Replace placeholder images (style/images/) and text with your own portfolio content.
+- Update contact info, social links, and project details as needed.
