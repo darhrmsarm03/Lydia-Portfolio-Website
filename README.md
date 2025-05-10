@@ -29,7 +29,27 @@ Welcome to the Lydia Portfolio Website repository. This project showcases a mode
 - Navigate to the project folder.
 - Open index.html in your preferred web browser.
 
-## Customize Content
+3. Customize Content
 
 - Replace placeholder images (style/images/) and text with your own portfolio content.
 - Update contact info, social links, and project details as needed.
+
+4. Add Your Projects
+
+- Upload your images to the style/images/ directory.
+- Modify the portfolio grid and filter options to showcase your work.
+
+## Dependencies
+
+- ootstrap CSS and JS files included via local paths.
+- jQuery and plugins included via local files (style/js/).
+
+Ensure all files are correctly linked, and update paths if you reorganize the directory structure.
+
+## License
+
+This project is a static website template. Feel free to customize and use it for your personal or commercial projects.
+
+Note: This template is designed for customization and may require additional setup for advanced features like backend integration or contact form functionalities.
+
+Enjoy building your stunning portfolio site with Lydia!
