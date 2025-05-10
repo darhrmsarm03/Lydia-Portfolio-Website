@@ -22,7 +22,7 @@ Welcome to the Lydia Portfolio Website repository. This project showcases a mode
 ## Setup Instructions
 
 1. Clone the Repository
-   "git clone "https://github.com/yourusername/lydia-portfolio.git"
+   'git clone (https://github.com/yourusername/lydia-portfolio.git)'
 
 2. Open in Browser
 
